@@ -1,0 +1,1 @@
+This project aims to predict the likelihood of diabetes in patients using machine learning techniques. By analyzing various medical predictor variables from the Pima Indians Diabetes Dataset, we can create a model to assist in early detection and treatment planning for diabetes.
